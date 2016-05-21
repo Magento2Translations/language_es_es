@@ -2,7 +2,6 @@
     "name": "magento2translations/language_es_es",
     "description": "European Spanish (español de España) Magento2 Language Pack (es_ES) - From Magento2Translations",
     "homepage": "http://magento2translations.github.io/",
-    "version": "100.0.0",
     "license": [
         "MIT"
     ],
@@ -17,7 +16,7 @@
         }
     ],
     "require": {
-        "magento/framework": "100.0.*"
+        "magento/framework": "~100.0"
     },
     "type": "magento2-language",
     "autoload": {
