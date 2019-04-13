@@ -1,0 +1,28 @@
+{
+  "name": "magento2translations/language_es_es",
+  "description": "European Spanish (español de España) Magento2 Language Pack (es_ES) - From Magento2Translations",
+  "version": "0.0.4",
+  "homepage": "http://magento2translations.github.io/",
+  "license": [
+    "MIT"
+  ],
+  "authors": [
+    {
+      "name": "Justin van Elst",
+      "homepage": "https://github.com/MrGekko"
+    },
+    {
+      "name": "Magento official translations project for Magento 2",
+      "homepage": "https://crowdin.com/project/magento-2"
+    }
+  ],
+  "require": {
+    "magento/framework": "*"
+  },
+  "type": "magento2-language",
+  "autoload": {
+    "files": [
+      "registration.php"
+    ]
+  }
+}
