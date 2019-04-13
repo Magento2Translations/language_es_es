@@ -1,7 +1,7 @@
 {
   "name": "magento2translations/language_es_es",
   "description": "European Spanish (español de España) Magento2 Language Pack (es_ES) - From Magento2Translations",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "homepage": "http://magento2translations.github.io/",
   "license": [
     "MIT"
