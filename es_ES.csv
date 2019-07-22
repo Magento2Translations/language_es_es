@@ -1567,7 +1567,7 @@ Loading...,Cargando...,module,Magento_Checkout
 "Incl. Tax","Impuestos incl.",module,Magento_Checkout
 "Your order number is: %1.","Su número de pedido es: %1.",module,Magento_Checkout
 "Your order # is: <span>%1</span>.","Su nº de pedido es: <span>%1</span>.",module,Magento_Checkout
-"We'll email you an order confirmation with details and tracking info.","Te enviaremos un email de confirmación con los detalles y información del envío.",module,Magento_Checkout
+"We'll email you an order confirmation with details and tracking info.","Te enviaremos un email de confirmación con los detalles e información del envío.",module,Magento_Checkout
 """identifiers"" of CMS blocks should be specified","Se deben especificar ""identificadores"" de los bloques de CMS",module,Magento_CmsGraphQl
 "The CMS block with the ""%1"" ID doesn't exist.","El bloque CMS con el ID ""%1"" no existe.",module,Magento_CmsGraphQl
 """Page id should be specified","""Id de la página debe ser especificado",module,Magento_CmsGraphQl
@@ -1795,7 +1795,7 @@ Summary,Resumen,module,Magento_ConfigurableProduct
 "Product with id ""%1"" does not contain required attribute ""%2"".","El producto con ID ""%1"" no contiene el atributo obligatorio ""%2"".",module,Magento_ConfigurableProduct
 "Products ""%1"" and ""%2"" have the same set of attribute values.","Los productos ""%1"" y ""%2"" tienen el mismo conjunto de atributos.",module,Magento_ConfigurableProduct
 "You can't add the item to shopping cart.","No puedes añadir el artículo al carrito de la compra.",module,Magento_ConfigurableProduct
-"You need to choose options for your item.","Tiene que elegir opciones para su ítem.",module,Magento_ConfigurableProduct
+"You need to choose options for your item.","Tiene que elegir opciones para su producto.",module,Magento_ConfigurableProduct
 "Some product variations fields are not valid.","Algunos campos de las variaciones del producto no son válidos.",module,Magento_ConfigurableProduct
 "Contribution must have attributes specified. Enter attributes and try again.","Los atributos deben estar especificados. Introduzca atributos e inténtelo de nuevo.",module,Magento_ConfigurableProduct
 "Type %1 is not an instance of %2","Tipo %1 no es una instancia de %2",module,Magento_ConfigurableProduct
@@ -1951,7 +1951,7 @@ System,"Gestionar sistema",module,Magento_CurrencySymbol
 "Customer address id column is not specified","Id de columna de dirección de cliente no especificada",module,Magento_CustomerImportExport
 "We can't find that customer address.","No podemos encontrar esa dirección del cliente.",module,Magento_CustomerImportExport
 "Please enter a valid region.","Introduce una región válida.",module,Magento_CustomerImportExport
-"We found another row with this email, website and address ID combination.","Encontramos otra fila con esta combinación de correo electrónico, página web y ID de dirección.",module,Magento_CustomerImportExport
+"We found another row with this email, website and address ID combination.","Encontramos otra fila con esta combinación de correo electrónico, página web e ID de dirección.",module,Magento_CustomerImportExport
 "This email is found more than once in the import file.","Este correo electrónico se encontró más de una vez en el archivo de importación.",module,Magento_CustomerImportExport
 "Orphan rows that will be skipped due default row errors","Filas huérfanas que se omitirán debido errores de fila predeterminados",module,Magento_CustomerImportExport
 "Invalid value in Store column (store does not exists?)","Valor inválido en la columna Tienda (¿la tienda existe?)",module,Magento_CustomerImportExport
@@ -2339,7 +2339,7 @@ Password,Contraseña,module,Magento_Customer
 "Confirm Password","Confirmar contraseña",module,Magento_Customer
 "Create an Account","Crear una cuenta",module,Magento_Customer
 "Set a New Password","Establecer nueva contraseña",module,Magento_Customer
-"You have signed out and will go to our homepage in 5 seconds.","Usted ha cerrado la sesión y irá a su página de inicio en 5 segundos.",module,Magento_Customer
+"You have signed out and will go to our homepage in 5 seconds.","Usted ha cerrado la sesión e irá a su página de inicio en 5 segundos.",module,Magento_Customer
 "New Customers","Nuevos clientes",module,Magento_Customer
 "Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","Crear una cuenta tiene muchos beneficios: Pago más rápido, guardar más de una dirección, seguimiento de pedidos y mucho más.",module,Magento_Customer
 Company,Empresa,module,Magento_Customer
