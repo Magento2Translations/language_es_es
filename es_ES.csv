@@ -1725,7 +1725,7 @@ System,"Gestionar sistema",module,Magento_Config
 "%1 (Default)","%1 (por defecto)",module,Magento_Config
 title,Título,module,Magento_Config
 No,"No 	",module,Magento_Config
-Optional,Freiwillig,module,Magento_Config
+Optional,Opcional,module,Magento_Config
 Required,Requerido,module,Magento_Config
 Website,"Página web",module,Magento_Config
 Store,Tienda,module,Magento_Config
