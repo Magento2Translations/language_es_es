@@ -2934,7 +2934,7 @@ Status,Estatus,module,Magento_ImportExport
 "Checked rows: %1, checked entities: %2, invalid rows: %3, total errors: %4","Controlar filas: %1, entidades marcadas: %2, filas no válidas: %3, total errores: %4",module,Magento_ImportExport
 "This file is empty. Please try another one.","Este archivo está vacío. Por favor, pruebe otro.",module,Magento_ImportExport
 "Please fix errors and re-upload file or simply press ""Import"" button to skip rows with errors","Solucione los errores y vuelva a cargar el archivo, o pulse el botón ""Importar"" para omitir las filas con errores",module,Magento_ImportExport
-"File is valid! To start import process press ""Import"" button","El archivo no es correcto. Para empezar el proceso de importación pulse el botón ""Importar"".",module,Magento_ImportExport
+"File is valid! To start import process press ""Import"" button","El archivo es correcto. Para empezar el proceso de importación pulse el botón ""Importar"".",module,Magento_ImportExport
 "The file is valid, but we can't import it for some reason.","El archivo es válido, pero no podemos importarlo por alguna razón.",module,Magento_ImportExport
 "Show more","Ver más",module,Magento_ImportExport
 "Additional data","Informacion adicional",module,Magento_ImportExport
